@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="lesson01_类和对象/lesson01_类和对象.csproj" />
+  <Project Path="lesson01_封装_类和对象/lesson01_封装_类和对象.csproj" />
+  <Project Path="lesson02_封装_成员变量和访问修饰符/lesson02_封装_成员变量和访问修饰符.csproj" Id="08427e32-e6bf-4036-bab5-188adeb1fad7" />
+  <Project Path="lesson02_练习题/lesson02_练习题.csproj" Id="050446df-8b1d-43eb-8b2d-1db2e52e1b93" />
+  <Project Path="lesson03_封装_成员方法/lesson03_封装_成员方法.csproj" Id="82f129c6-3e2d-4197-be23-24f1a17e988a" />
+  <Project Path="lesson03_练习题/lesson03_练习题.csproj" Id="4e036c07-398a-49f3-b594-f4adc26e3d1a" />
 </Solution>
