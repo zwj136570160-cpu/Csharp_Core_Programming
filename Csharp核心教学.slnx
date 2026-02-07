@@ -4,4 +4,16 @@
   <Project Path="lesson02_练习题/lesson02_练习题.csproj" Id="050446df-8b1d-43eb-8b2d-1db2e52e1b93" />
   <Project Path="lesson03_封装_成员方法/lesson03_封装_成员方法.csproj" Id="82f129c6-3e2d-4197-be23-24f1a17e988a" />
   <Project Path="lesson03_练习题/lesson03_练习题.csproj" Id="4e036c07-398a-49f3-b594-f4adc26e3d1a" />
+  <Project Path="lesson04_封装_构造函数和析构函数/lesson04_封装_构造函数和析构函数.csproj" Id="cffb5fb1-e046-4846-acf1-c5695d9df556" />
+  <Project Path="lesson04_练习题/lesson04_练习题.csproj" Id="a63108dd-5686-44f2-b093-a04fc5338cf9" />
+  <Project Path="lesson05_成员属性/lesson05_成员属性.csproj" Id="cd8b40e1-bc32-4386-8be6-1820ef48af69" />
+  <Project Path="lesson05_练习题/lesson05_练习题.csproj" Id="37fecb41-76f6-4504-9eae-977c41916921" />
+  <Project Path="lesson06_封装_索引器/lesson06_封装_索引器.csproj" Id="e46e6cac-6d2c-4edb-943b-b2dfebf424ae" />
+  <Project Path="lesson06_练习题/lesson06_练习题.csproj" Id="660a9fcf-69ff-4dfe-bb81-cf9d6fe14b11" />
+  <Project Path="lesson07_封装_静态成员/lesson07_封装_静态成员.csproj" Id="c11b6caa-63b9-4966-8301-5b5ece9d0bc0" />
+  <Project Path="lesson07_练习题/lesson07_练习题.csproj" Id="1d15fb01-f96b-467c-be8f-d56cd8dcb9aa" />
+  <Project Path="lesson08_封装_静态类和静态构造函数/lesson08_封装_静态类和静态构造函数.csproj" Id="8f6c340c-d662-4a75-a250-62488cb729ad" />
+  <Project Path="lesson08_练习题/lesson08_练习题.csproj" Id="953c71da-57bd-44f5-bfaf-d13f73918151" />
+  <Project Path="lesson09_封装_拓展方法/lesson09_封装_拓展方法.csproj" Id="217f3e63-5672-4832-93b3-d53cbf5571ef" />
+  <Project Path="lesson09_练习题/lesson09_练习题.csproj" Id="d5df7c60-3c86-4dd6-aaa7-2f737f03cefe" />
 </Solution>
