@@ -16,4 +16,19 @@
   <Project Path="lesson08_练习题/lesson08_练习题.csproj" Id="953c71da-57bd-44f5-bfaf-d13f73918151" />
   <Project Path="lesson09_封装_拓展方法/lesson09_封装_拓展方法.csproj" Id="217f3e63-5672-4832-93b3-d53cbf5571ef" />
   <Project Path="lesson09_练习题/lesson09_练习题.csproj" Id="d5df7c60-3c86-4dd6-aaa7-2f737f03cefe" />
+  <Project Path="lesson10_封装_运算符重载/lesson10_封装_运算符重载.csproj" Id="9a4718fe-cd8f-407f-a794-997471f30a93" />
+  <Project Path="lesson10_练习题/lesson10_练习题.csproj" Id="174fdbf7-ac76-44ef-8681-464ba85e998c" />
+  <Project Path="lesson11_封装_内部类和分部类/lesson11_封装_内部类和分部类.csproj" Id="612be00e-3977-43ff-8686-f8bad93ef3cc" />
+  <Project Path="lesson12_练习题/lesson12_练习题.csproj" Id="c18bab00-5724-460a-906d-dacde42a27b5" />
+  <Project Path="lesson12_继承_继承的基本规则/lesson12_继承_继承的基本规则.csproj" Id="cc4107ce-c79e-48af-bdd1-5e6b9e04b6a5" />
+  <Project Path="lesson13_练习题/lesson13_练习题.csproj" Id="054eb3ff-d608-4c79-9aed-2a7d53c513e4" />
+  <Project Path="lesson13_继承_里氏替换原则/lesson13_继承_里氏替换原则.csproj" Id="43c54533-95a9-4148-904a-09850705bd4b" />
+  <Project Path="lesson14_练习题/lesson14_练习题.csproj" Id="301b0175-633b-444b-9afb-e2ac17b3b197" />
+  <Project Path="lesson14_继承_继承中的构造函数/lesson14_继承_继承中的构造函数.csproj" Id="30ea6256-aaea-4b30-925e-3d8f94d0cf4b" />
+  <Project Path="lesson15_练习题/lesson15_练习题.csproj" Id="10dc6510-c2a8-49f7-aa32-ff0560653120" />
+  <Project Path="lesson15_继承_万物之父和装箱拆箱/lesson15_继承_万物之父和装箱拆箱.csproj" Id="85563cf3-698c-423f-a00d-91417c598006" />
+  <Project Path="lesson16_练习题/lesson16_练习题.csproj" Id="c23d3cd5-d578-4455-aef5-6011a98a3ca9" />
+  <Project Path="lesson16_继承_密封类/lesson16_继承_密封类.csproj" Id="641fafab-b687-4a13-a18b-c7a0fb9fd936" />
+  <Project Path="lesson17_多态_vob/lesson17_多态_vob.csproj" Id="b46655a6-82a5-42af-8d5d-6dd822a3293a" />
+  <Project Path="lesson17_练习题/lesson17_练习题.csproj" Id="c58a3a1e-d6a8-4102-88fe-c7a1e61a0c0e" />
 </Solution>
