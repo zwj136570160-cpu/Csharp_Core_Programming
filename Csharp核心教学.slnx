@@ -31,4 +31,18 @@
   <Project Path="lesson16_继承_密封类/lesson16_继承_密封类.csproj" Id="641fafab-b687-4a13-a18b-c7a0fb9fd936" />
   <Project Path="lesson17_多态_vob/lesson17_多态_vob.csproj" Id="b46655a6-82a5-42af-8d5d-6dd822a3293a" />
   <Project Path="lesson17_练习题/lesson17_练习题.csproj" Id="c58a3a1e-d6a8-4102-88fe-c7a1e61a0c0e" />
+  <Project Path="lesson18_多态_抽象类和抽象方法/lesson18_多态_抽象类和抽象方法.csproj" Id="d8c973d3-0fd6-45e4-aa2f-ecb2bdbc3616" />
+  <Project Path="lesson18_练习题/lesson18_练习题.csproj" Id="5a532e47-96fa-42bc-926c-82c33896da2b" />
+  <Project Path="lesson19_多态_接口/lesson19_多态_接口.csproj" Id="586fabce-2ff0-4443-baa3-6dfc22150947" />
+  <Project Path="lesson19_练习题/lesson19_练习题.csproj" Id="a4079cc5-0241-42ef-9cbe-7660be2859b2" />
+  <Project Path="lesson20_多态_密封方法/lesson20_多态_密封方法.csproj" Id="2d1a37d0-87b1-44d6-8e2c-4a0a4dd683c3" />
+  <Project Path="lesson21_练习题/lesson21_练习题.csproj" Id="4b5e4636-fa5a-40fe-8cac-84c242331c49" />
+  <Project Path="lesson21_面向对象相关_命名空间/lesson21_面向对象相关_命名空间.csproj" Id="725e7abe-9c66-4eb7-9d64-144e549a0c41" />
+  <Project Path="lesson22_练习题/lesson22_练习题.csproj" Id="3ab1c156-679d-4da8-8100-0fc1ffdb656c" />
+  <Project Path="lesson22_面向对象相关_万物之父中的方法/lesson22_面向对象相关_万物之父中的方法.csproj" Id="0a2ae70d-31cb-49a1-a6f1-ce298e3d35de" />
+  <Project Path="lesson23_练习题/lesson23_练习题.csproj" Id="3a6fc6c8-6acb-4bc5-a7bd-b6255502d417" />
+  <Project Path="lesson23_面向对象相关_string/lesson23_面向对象相关_string.csproj" Id="d1de2740-0a14-4a74-a0dc-207cd8029df1" />
+  <Project Path="lesson24_面向对象相关_StringBuilder/lesson24_面向对象相关_StringBuilder.csproj" Id="fb2c59d0-2e54-4040-9067-c3c1d7a59cb4" />
+  <Project Path="lesson25_面向对象相关_结构体和类的区别/lesson25_面向对象相关_结构体和类的区别.csproj" Id="f1ffdc72-3426-44da-baef-b41e1cc9c10f" />
+  <Project Path="lesson26_面向对象相关_抽象类和接口的区别/lesson26_面向对象相关_抽象类和接口的区别.csproj" Id="50ae780d-836f-4238-95b4-3df8367fbd93" />
 </Solution>
